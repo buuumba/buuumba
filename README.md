@@ -11,10 +11,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-2B2B2B?style-for-the-badge&logo=nodejs)
 ![React](https://img.shields.io/badge/-React-2B2B2B?style-for-the-badge&logo=react&logoColor=0757CE)
 ![Confluence](https://img.shields.io/badge/-Confluence-2B2B2B?style-for-the-badge&logo=confluence&logoColor=1A71E8)
+![Docker](https://img.shields.io/badge/-Docker-2B2B2B?style-for-the-badge&logo=docker&logoColor=1A71E8)
 ![Postman](https://img.shields.io/badge/-Postman-2B2B2B?style-for-the-badge&logo=Postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-2B2B2B?style-for-the-badge&logo=selenium)
 ![GitHub](https://img.shields.io/badge/-GitHub-2B2B2B?style-for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2B2B2B?style-for-the-badge&logo=docker&logoColor=1A71E8)
+
 
 
 
