@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2B2B2B?style-for-the-badge&logo=docker&logoColor=1A71E8)
 ![Postman](https://img.shields.io/badge/-Postman-2B2B2B?style-for-the-badge&logo=Postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-2B2B2B?style-for-the-badge&logo=selenium)
-![GitHub](https://img.shields.io/badge/-GitHub-2B2B2B?style-for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-Git-2B2B2B?style-for-the-badge&logo=git)
 
 
 
