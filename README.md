@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-2B2B2B?style-for-the-badge&logo=css3&logoColor=2C97CC)
 ![SQL](https://img.shields.io/badge/-SQL-2B2B2B?style-for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-2B2B2B?style-for-the-badge&logo=python)
-![Node](https://img.shields.io/badge/-Node-2B2B2B?style-for-the-badge&logo=node)
+![Node.js](https://img.shields.io/badge/-Node.js-2B2B2B?style-for-the-badge&logo=nodejs)
 ![JIRA](https://img.shields.io/badge/-JIRA-2B2B2B?style-for-the-badge&logo=jira&logoColor=0757CE)
 ![Confluence](https://img.shields.io/badge/-Confluence-2B2B2B?style-for-the-badge&logo=confluence&logoColor=1A71E8)
 ![Postman](https://img.shields.io/badge/-Postman-2B2B2B?style-for-the-badge&logo=Postman)
