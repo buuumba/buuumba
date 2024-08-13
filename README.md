@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-2B2B2B?style-for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-2B2B2B?style-for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-2B2B2B?style-for-the-badge&logo=nodejs)
-![JIRA](https://img.shields.io/badge/-JIRA-2B2B2B?style-for-the-badge&logo=jira&logoColor=0757CE)
+![React](https://img.shields.io/badge/-React-2B2B2B?style-for-the-badge&logo=react&logoColor=0757CE)
 ![Confluence](https://img.shields.io/badge/-Confluence-2B2B2B?style-for-the-badge&logo=confluence&logoColor=1A71E8)
 ![Postman](https://img.shields.io/badge/-Postman-2B2B2B?style-for-the-badge&logo=Postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-2B2B2B?style-for-the-badge&logo=selenium)
