@@ -3,7 +3,7 @@
 ## Fullstack JS Developer
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-Markdown-2B2B2B?style-for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2B2B2B?style-for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-2B2B2B?style-for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2B2B2B?style-for-the-badge&logo=css3&logoColor=2C97CC)
 ![SQL](https://img.shields.io/badge/-SQL-2B2B2B?style-for-the-badge&logo=mysql)
