@@ -13,8 +13,6 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-2B2B2B?style-for-the-badge&logo=confluence&logoColor=1A71E8)
 ![Postman](https://img.shields.io/badge/-Postman-2B2B2B?style-for-the-badge&logo=Postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-2B2B2B?style-for-the-badge&logo=selenium)
-![JUnit](https://img.shields.io/badge/-JUnit-2B2B2B?style-for-the-badge&logo=junit5)
-![DevTools](https://img.shields.io/badge/-DevTools-2B2B2B?style-for-the-badge&logo=chromecast)
 ![GitHub](https://img.shields.io/badge/-GitHub-2B2B2B?style-for-the-badge&logo=github)
 ![JMeter](https://img.shields.io/badge/-JMeter-2B2B2B?style-for-the-badge&logo=apachejmeter&logoColor=C41F34)
 
