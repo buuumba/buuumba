@@ -4,6 +4,7 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2B2B2B?style-for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2B2B2B?style-for-the-badge&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-2B2B2B?style-for-the-badge&logo=nestjs&logoColor=E0234E)
 ![HTML](https://img.shields.io/badge/-HTML-2B2B2B?style-for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2B2B2B?style-for-the-badge&logo=css3&logoColor=2C97CC)
