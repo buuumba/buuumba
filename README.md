@@ -26,7 +26,5 @@
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2B2B2B?style-for-the-badge&logo=telegram)](https://t.me/buuuumba)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-2B2B2B?style-for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?%20phone=79606947375)
-[![Instagram](https://img.shields.io/badge/-Instagram-2B2B2B?style-for-the-badge&logo=instagram)](https://www.instagram.com/noinstaboy)
 [![Facebook](https://img.shields.io/badge/-Facebook-2B2B2B?style-for-the-badge&logo=Facebook)](https://www.facebook.com/dmitriy.bukreev.9/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2B2B2B?style-for-the-badge&logo=linkedin&logoColor=0C61BF)](https://www.linkedin.com/in/goldstrangeman/)
