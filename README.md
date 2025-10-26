@@ -8,7 +8,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-2B2B2B?style-for-the-badge&logo=nestjs&logoColor=E0234E)
 ![HTML](https://img.shields.io/badge/-HTML-2B2B2B?style-for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2B2B2B?style-for-the-badge&logo=css3&logoColor=2C97CC)
-![MySQL](https://img.shields.io/badge/-MySQL-2B2B2B?style-for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2B2B2B?style-for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-2B2B2B?style-for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-2B2B2B?style-for-the-badge&logo=nodejs)
 ![React](https://img.shields.io/badge/-React-2B2B2B?style-for-the-badge&logo=react&logoColor=0757CE)
